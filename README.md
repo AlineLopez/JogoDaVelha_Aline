@@ -8,4 +8,5 @@
 - Botão para desfazer última jogada (não pode desfazer se jogo terminou)
 - Temporizador (cada jogador tem 20 segundos para jogar, senão perde o jogo)
 - Adicionar uma tela de boas vindas. A grade de jogo só aparece de a tela de boas vindas for clicada
+- O Link do jogo eu não consegui prof.
 
