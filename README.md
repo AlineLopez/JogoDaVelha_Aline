@@ -1,6 +1,6 @@
 # Jogo da Velha
 
-Funcionalidades do roadmap para a próxima iteração:
+
 
 - Detecção de fim de jogo (vitória do X, vitória do O ou empate)
 - Marcador de pontuação (número de vitórias do X, número de vitórias do O e número de empates)

@@ -8,7 +8,7 @@ function relogio(){
 	tempo = tempo - 1;
 	document.getElementById('timer').innerText = tempo;
 	if (tempo == 0) {
-		document.getElementById('gameover').innerText = 'VOCÊ PERDEU!!!!!';
+		document.getElementById('gameover').innerText = 'ACABOU';
 		clearInterval(x);
 		tempo = 0
 		var all = document.getElementsByTagName('button');
