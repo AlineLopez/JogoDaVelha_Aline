@@ -1,7 +1,7 @@
 
 var vez = "x";
 
-var tempo = 25;
+var tempo = 20;
 var x;
 
 function relogio(){
